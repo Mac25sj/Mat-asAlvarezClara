@@ -7,7 +7,7 @@ const Hero = () => {
         
         <div className="w-full md:w-1/2 flex flex-col items-center md:items-start text-center md:text-left">
           <img
-            src="/img5.jpg"
+            src="/ME.jpeg"
             alt="Matías"
             className="w-52 h-52 rounded-full object-cover shadow-2xl border-4 border-slate-300 dark:border-white/10 mb-6 transition-all duration-500"
           />
