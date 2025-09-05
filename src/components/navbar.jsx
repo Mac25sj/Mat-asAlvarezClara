@@ -10,7 +10,7 @@ import {
   FaMoon,
   FaSun,
 } from 'react-icons/fa'
-import useTheme from '../themeContext/useTheme'
+import useTheme from '../ThemeContext/useTheme'
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false)
