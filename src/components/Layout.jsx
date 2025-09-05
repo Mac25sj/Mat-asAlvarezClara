@@ -1,5 +1,5 @@
-import Navbar from './navbar.jsx'
-import Footer from './footer.jsx'
+import Navbar from '../components/navbar.jsx'
+import Footer from '../components/Footer.jsx'
 import { FaWhatsapp, FaArrowUp } from 'react-icons/fa'
 import { useState, useEffect } from 'react'
 import { ToastContainer } from 'react-toastify'
